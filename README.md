@@ -17,7 +17,7 @@ Customer segmentation for retail e-commerce using RFM analysis and K-Means clust
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn  
 - **Methods:** Data Cleaning, EDA, **RFM Analysis**, **K-Means Clustering**, **Silhouette Analysis**, Scaling/Outlier handling  
-- **Environment:** Google Colab / Jupyter Notebook
+- **Environment:** Jupyter Notebook
 
 ---
 
